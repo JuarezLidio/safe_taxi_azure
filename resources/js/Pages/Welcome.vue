@@ -30,7 +30,7 @@ defineProps({
         </nav>
         <div class="grow w-full flex">
             <div class="grow w-5/12 ml-10 flex flex-col justify-center items-start gap-4 mb-36 text-gray-100">
-                <h2 class="tracking-tighter text-8xl font-black font-tiltwarp pb-6 bg-clip-text text-transparent bg-[linear-gradient(to_right,theme(colors.gray.100),theme(colors.gray.100),theme(colors.gray.100),theme(colors.gray.100),theme(colors.amber.200),theme(colors.amber.300),theme(colors.amber.200),theme(colors.gray.100),theme(colors.gray.100),theme(colors.gray.100),theme(colors.gray.100))] bg-[length:200%_auto] animate-text-light">TAXISEGURO</h2>
+                <h2 class="tracking-tighter text-8xl font-black font-tiltwarp pb-6 bg-clip-text text-transparent bg-[linear-gradient(to_right,theme(colors.gray.100),theme(colors.gray.100),theme(colors.gray.100),theme(colors.gray.100),theme(colors.amber.200),theme(colors.amber.300),theme(colors.amber.200),theme(colors.gray.100),theme(colors.gray.100),theme(colors.gray.100),theme(colors.gray.100))] bg-[length:200%_auto] animate-text-light">TAXISEGURO LIDIO</h2>
                 <h2 class="font-black text-3xl pb-10 bg-clip-text text-transparent bg-[linear-gradient(to_right,theme(colors.gray.100),theme(colors.gray.100),theme(colors.gray.100),theme(colors.gray.100),theme(colors.amber.200),theme(colors.amber.300),theme(colors.amber.200),theme(colors.gray.100),theme(colors.gray.100),theme(colors.gray.100),theme(colors.gray.100))] bg-[length:200%_auto] animate-text-light">La mejor manera de realizar cada viaje: seguridad y transparencia al momento.</h2>
 
                 <div class="flex gap-10 w-full pb-6">
